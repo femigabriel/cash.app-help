@@ -34,6 +34,70 @@ export default {
 </script>
 
 <style>
+@font-face {
+	font-family: sqmarket;
+	src: url(https://cash-f.squarecdn.com/static/fonts/sqmarket/sqmarket-thin.woff2)
+		format("woff2");
+	font-weight: 100;
+	font-style: normal;
+}
+@font-face {
+	font-family: sqmarket;
+	src: url(https://cash-f.squarecdn.com/static/fonts/sqmarket/sqmarket-light.woff2)
+		format("woff2");
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: sqmarket;
+	src: url(https://cash-f.squarecdn.com/static/fonts/sqmarket/sqmarket-light-italic.woff2)
+		format("woff2");
+	font-weight: 300;
+	font-style: italic;
+}
+@font-face {
+	font-family: sqmarket;
+	src: url(https://cash-f.squarecdn.com/static/fonts/sqmarket/sqmarket-regular.woff2)
+		format("woff2");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: sqmarket;
+	src: url(https://cash-f.squarecdn.com/static/fonts/sqmarket/sqmarket-regular-italic.woff2)
+		format("woff2");
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: sqmarket;
+	src: url(https://cash-f.squarecdn.com/static/fonts/sqmarket/sqmarket-medium.woff2)
+		format("woff2");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: sqmarket;
+	src: url(https://cash-f.squarecdn.com/static/fonts/sqmarket/sqmarket-medium-italic.woff2)
+		format("woff2");
+	font-weight: 500;
+	font-style: italic;
+}
+@font-face {
+	font-family: sqmarket;
+	src: url(https://cash-f.squarecdn.com/static/fonts/sqmarket/sqmarket-bold.woff2)
+		format("woff2");
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: sqmarket;
+	src: url(https://cash-f.squarecdn.com/static/fonts/sqmarket/sqmarket-bold-italic.woff2)
+		format("woff2");
+	font-weight: 700;
+	font-style: italic;
+}
+
 body {
   font-family: sqmarket, "Helvetica Neue", helvetica, sans-serif;
   min-width: 100%;
